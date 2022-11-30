@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/10kMsRGXVjACXMCc_UD7W2hCyJHGCMW6r
 """
 
-!pip install -q streamlit
-
 import streamlit as st
  
 st.title("Multiplication App using Streamlit")
